@@ -6,5 +6,5 @@ Projets qui ont pour vocation personnel.
 
 A voir si c'est possible :
 - Détection de pièces sur l'image d'un échiquier en 2D (screen-shot) puis transfert de la position sur Lichess pour renvoyer les meilleurs coups (comme le bot sur r/chess)
-- Intégration d'un bot modérateur sur un canal discord, twitch ou
+- Intégration d'un bot modérateur sur un canal discord, twitch ou whatsapp
 
