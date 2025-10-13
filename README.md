@@ -1,6 +1,6 @@
-# Projets IA - trinh nhat-nam
+# Projets IA
 
-Projets que j'ai tenté qui ont pour vocation personnel.
+Projets qui ont pour vocation personnel.
 
 - Test d'un modèle de détection de personnes.  Mon but est de voir si je peux l'utiliser à des fins personnels pour détecter des intrusions en le connectant à une caméra. J'ai d'abord tenter d'entrainer un moi-même avec une base de données Kaggle mais je vais peut-être utiliser un qui est déjà entrainé comme l'entrainement peut prendre trop de temps et j'ai un accès limité au GPU.
 
